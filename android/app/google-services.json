@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716437575025",
+    "project_id": "bookd-9d1b9",
+    "storage_bucket": "bookd-9d1b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716437575025:android:35f41bac1bbcb680ad92d0",
+        "android_client_info": {
+          "package_name": "com.bookd.bookreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716437575025-i1mv27t5n3aooccrau4d4h2s7i6p3a38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa7-X7mepo_4jUlTEwLlJKbvx3yevRPa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716437575025-i1mv27t5n3aooccrau4d4h2s7i6p3a38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
